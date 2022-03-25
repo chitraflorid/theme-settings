@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer a {
+    color: rgba(0, 0, 255, 2);
+    text-decoration: none;
+    cursor: pointer;
+}

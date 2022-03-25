@@ -1,0 +1,19 @@
+select {
+    background: #FFFFFF;
+    border: 2px solid #E8E8E8;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 58px;
+    width: 400px;
+}
+
+select, option {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height, or 107% */
+    letter-spacing: 0.1px;
+    color: #B0B0B0;
+}

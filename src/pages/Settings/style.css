@@ -1,0 +1,30 @@
+.settings {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 20px 20px 10px;
+    background: rgba(229, 229, 229, 1.6)
+}
+
+.btn-strip {
+    margin-top: 30%;
+    display: flex;
+    align-content: center;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.theme-btn {
+    width: 190px;
+    height: 64px;
+    background: #2091F9;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.reset-btn{
+    width: 152px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    color: #2091F9;
+}

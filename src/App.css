@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Helvetica';
+}
+
+.container {
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 11;
+}

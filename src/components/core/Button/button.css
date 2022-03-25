@@ -1,0 +1,9 @@
+.default-btn {
+    font-family: 'Montserrat, Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    border-color: transparent;
+    cursor: pointer;
+}
